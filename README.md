@@ -63,7 +63,7 @@ Follow these instructions to get a local copy up and running for development.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/Deepanshuubnare/Chatapp.git](https://github.com/Deepanshuubnare/Chatapp.git)
+    git clone https://github.com/Deepanshuubnare/Chatapp.git
     cd Chatapp
     ```
 
@@ -99,10 +99,10 @@ Follow these instructions to get a local copy up and running for development.
     ```
     The server will start on `http://localhost:5000` (or the port you defined).
 
-2.  **Start the frontend client:**
+2. **Start the frontend client:**
     In a new terminal, from the `client` directory, run:
     ```sh
-d   npm run dev
+    npm run dev
     ```
     The application will be available at `http://localhost:3000`.
 
